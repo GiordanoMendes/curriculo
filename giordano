@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CURRICULO GIORDANO</title>
+    <style>
+        h1{color:black;}
+        h2{color: black;}
+        body{background-color: white;}
+        p{color:Black}
+    </style>
+</head>
+<body>
+    <center>
+    <h1>Giordano Meireles Mendes Domingues</h1>
+   <i>
+    <p>Endereço: Duarte da costa 25</p>
+    <p>Bairro: Rosario 1 / Sabará – MG Cep: 34555150</p>
+    <p>Telefone: 31 - 36745239 / Celular: 31 - 99311 - 5901</p>
+    <p>Estado Civil: Solteiro</p>
+</i> 
+</center>
+
+    <h2>Experiência Profissional:</h2>
+    <h3>1. Domingos Costa Industria S/A</h3>
+
+    <p>Praça: Louis Ensch, nº 160 - Cidade Industrial - Contagem - MG</p>
+       <p> Tempo de emprego: 5 meses</p>
+        <p>Cargo: Auxiliar administrativo e gestão de projetos</p>
+        <p>Função: Controle e analise de documentação de fornecedor, controle e anlise de documentação de funcionarios, controle de notas fiscais, controle e analise de contratos, compras etc.
+        </p>
+
+    <h4>Formação academica:</h4>
+    <p>Ensino médio  (completo)</p>
+    <p>Escola estadual professora Maria Elizabeth Viana</p>
+
+    <h5>Cursos:</h5>
+    <ol>
+        <li>Pacote Office:</li>
+        <ul>Windows</ul>
+        <ul>Word</ul>
+        <ul>Excel</ul>
+        <ul>Internet</ul>         
+        
+    </ol>
+    <center>
+        <strong>Giordano Meireles Mendes Domingues</strong>
+</center>    
+   
+
+</body>
+</html>
